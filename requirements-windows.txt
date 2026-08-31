@@ -1,0 +1,4 @@
+ultralytics>=8.3
+opencv-python>=4.10
+pytest>=8.0
+labelImg>=1.8
