@@ -1,0 +1,11 @@
+.worktrees/
+raw/
+labeled/
+dataset/
+models/
+runs/
+video/
+.venv/
+__pycache__/
+*.py[cod]
+*.pt
